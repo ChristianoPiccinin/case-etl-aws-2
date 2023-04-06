@@ -2,7 +2,7 @@
 # Case
 
 # Blueprint
-![Architecture](https://raw.githubusercontent.com/ChristianoPiccinin/case-etl-aws-insurance/main/img/etl-aws.png)
+![Architecture](https://raw.githubusercontent.com/ChristianoPiccinin/case-etl-aws-2/main/img/aws-etl.png)
 
 # Architecture
 ### Lambda
